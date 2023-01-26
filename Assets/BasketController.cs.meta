@@ -3,7 +3,9 @@ guid: 8d7f6efa61b944bf4b2c9dcf3ac4525b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - appleSE: {fileID: 8300000, guid: 767f4d41392ff405f8bb8a1ae33ebd6c, type: 3}
+  - bombSE: {fileID: 8300000, guid: 154dfd9098f5c4027bd70c7d5e4ea297, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
