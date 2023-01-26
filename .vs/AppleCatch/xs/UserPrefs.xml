@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{220492D7-4B9D-FC07-0221-97FB4E68D068}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BasketController.cs">
+    <Files>
+      <File FileName="Assets/ItemController.cs" Line="3" Column="19" />
+      <File FileName="Assets/BasketController.cs" Line="16" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppleCatch" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ItemController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8647bea-6276-4c42-a86e-ee73a013b6ac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
