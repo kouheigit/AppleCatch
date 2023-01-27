@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/ItemController.cs" />
     <Compile Include="Assets/BasketController.cs" />
+    <Compile Include="Assets/ItemGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

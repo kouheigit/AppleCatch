@@ -361,6 +361,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/BasketController.cs"
 "Assets/ItemController.cs"
+"Assets/ItemGenerator.cs"
 -langversion:9.0
 
 /deterministic
