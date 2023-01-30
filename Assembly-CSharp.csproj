@@ -58,8 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets/ItemGenerator.cs" />
     <Compile Include="Assets/ItemController.cs" />
-    <Compile Include="Assets/BasketController.cs" />
     <Compile Include="Assets/GameDirector.cs" />
+    <Compile Include="Assets/BasketController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
