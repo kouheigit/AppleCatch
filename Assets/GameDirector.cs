@@ -8,6 +8,7 @@ public class GameDirector : MonoBehaviour
     GameObject timerText;
     GameObject pointText;
     float time = 60.0f;
+    GameObject generator;
     int point = 0;
 
     public void GetApple()
